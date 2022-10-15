@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: darkslategray;
 }
 
 header,
@@ -19,8 +18,12 @@ h2 {
     text-align: center;
 }
 
+h1 {
+    color: white;
+}
+
 h2 {
-    color: blueviolet;
+    color: rgb(226, 43, 119);
 }
 
 img {
@@ -38,6 +41,7 @@ ul {
 
 li {
     padding-top: 10px;
+    color: darkslategray;
 }
 
 p {
